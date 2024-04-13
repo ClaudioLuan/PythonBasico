@@ -34,5 +34,3 @@ PyCharm Community Edition: https://www.jetbrains.com/pt-br/pycharm/download/down
 
 https://python.org.br/instalacao-windows/
 
-
-# Instalar o PyCharm
