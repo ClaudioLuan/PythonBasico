@@ -1,4 +1,4 @@
-# Apresentar o Ambiente de Desenvocimento 
+# Apresentar o Ambiente de Desenvolvimento
 
 ## Python 
 
