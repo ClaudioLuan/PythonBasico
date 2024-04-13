@@ -34,3 +34,7 @@ PyCharm Community Edition: https://www.jetbrains.com/pt-br/pycharm/download/down
 
 https://python.org.br/instalacao-windows/
 
+# Instalar o VSCode 
+
+https://www.hashtagtreinamentos.com/como-instalar-o-vs-code-javascript#:~:text=Passo%20a%20passo%3A,->%20clique%20no%20primeiro%20link.&text=Pode%20aparecer%20de%20primeira%20o,marcadas%20como%20na%20imagem%20abaixo.
+
