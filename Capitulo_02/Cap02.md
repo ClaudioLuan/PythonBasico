@@ -30,6 +30,18 @@ Ola! Neste capítulo, iremos aprender sobre os conceitos fundamentais e básicos
 
 ## Algortimo:
 
+* **O que é algoritmo?**
+  
+  São sequências de instruções finitas afim de resolver problemas. De forma análoga a uma receita de um bolo.
+  Por exemplo, idealize que vamos fazer um bolo, no qual você precisa fazer a leitura da receita antes, compreender as instruções, executa
+  o passo a passo, e tem como resultado o bolo.
+
+  Neste caso, a receita é como se fosse o algoritmo, você o interpretador e o bolo é a saída(*output*).
+
+  De acordo com Rod Stephenes "A diferença entre um bom e um mal algoritmo pode resultar na diferença entre resolver um
+  problema em segundos, horas ou nunca."
+  
+
 ## Programa:
 
 ## Valores:
