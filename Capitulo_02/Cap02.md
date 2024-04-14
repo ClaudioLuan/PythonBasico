@@ -32,7 +32,7 @@ Ola! Neste capítulo, iremos aprender sobre os conceitos fundamentais e básicos
 
 * **O que é algoritmo?**
   
-  São sequências de instruções finitas afim de resolver problemas. De forma análoga a uma receita de um bolo.
+  São sequências de instruções finitas a fim de resolver problemas. De forma análoga a uma receita de um bolo.
   Por exemplo, idealize que vamos fazer um bolo, no qual você precisa fazer a leitura da receita antes, compreender as instruções, executa
   o passo a passo, e tem como resultado o bolo.
 
