@@ -42,8 +42,21 @@ Ola! Neste capítulo, iremos aprender sobre os conceitos fundamentais e básicos
   problema em segundos, horas ou nunca."
   
 
-## Programa:
+## Programa / Aplicação:
 
+* **O que é Programa/ Aplicação?**
+
+  É uma sequência de instruções para executar operações em um computador. De acordo com Downey no livro Pense em Python, por mais
+  complexo que seja um programa que você possa ter usado, no cerne ele é formado pelas seguintes instruções:
+
+    * Entrada de dados;
+    * Matemática básica;
+    * Decisões;
+    * Repetições;
+    * Saída de dados.
+
+  Assim, programar é a arte de quebrar problemas grandes, em problemas pequenos.
+  
 ## Valores:
 
 ## Variáveis:
