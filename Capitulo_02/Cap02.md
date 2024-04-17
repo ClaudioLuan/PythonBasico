@@ -59,6 +59,15 @@ Ola! Neste capítulo, iremos aprender sobre os conceitos fundamentais e básicos
   
 ## Valores:
 
+* **O que é valores?**
+
+  Os valores são os componentes mais simples da linguagem de programação, pois são são representados por números, textos, verdadeiros ou falso.
+    * Os números podem ser inteiros ou ponto flutuante, chamados de *floate*. Exemplo: 2 ou 1.50
+    * Os valores em texto são conhecidos por *string* que são assim chamadas o conjunto de caracteres. As *strings* representam texto e podem ser criadas tanto utilizando aspas como apóstrofo. Exemplo:'Olá Mundo!' ou "Olá Mundo!"
+    * Os dados *Booleanos* são valores de ***True(verdadeiro) e False(falso)***, e apenas esses dois valores. ***True e False***, devem ser escritos com a primeira letra em maiúsculo e as demais em minúsculo, caso contrário será apresentado um erro. Exemplo: 2 == 2 ou 2!=2    
+    * Para saber qual o tipo do valor utile a função **type**. Exemplo: **type(2.5) | <class 'float'>, type("Casa") | <class 'str'>**
+      
+
 ## Variáveis:
 
 
